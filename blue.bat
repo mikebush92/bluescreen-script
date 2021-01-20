@@ -1,1 +1,1 @@
-start "" file://./GLOBALROOT/Device/ConDrv/KernelConnect
+start "iexplore.exe" file://./GLOBALROOT/Device/ConDrv/KernelConnect
